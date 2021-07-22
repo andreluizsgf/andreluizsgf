@@ -1,9 +1,9 @@
-## Hello there, i'm André Luiz 🎮
+## Hello there, i'm André Luiz 😄
 
-- 🤔 &nbsp; I'm a brazilian backend developer.
+- 🇧🇷 &nbsp; I'm a brazilian backend developer.
 - 🎓 &nbsp; I study computer science at Unifacs.
 - 💼 &nbsp; I'm currently working as backend developer at [Cubos Tecnologia](https://cubos.io)
-- 🌱 &nbsp; I like to do a lot of things: play videogames, cook, read books and study.
+- 🎮 &nbsp; I like to do a lot of things: play videogames, cook, read books and study.
 
 ## I've already touched 💻
 
