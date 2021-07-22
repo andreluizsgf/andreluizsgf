@@ -1,4 +1,3 @@
-![](https://komarev.com/ghpvc/?username=VanessaSwerts&color=006bed)
 ## Hello there, i'm André Luiz 🎮
 
 - 🤔 &nbsp; I'm a brazilian backend developer.
