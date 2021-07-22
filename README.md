@@ -1,11 +1,11 @@
 ## Hello there, i'm André Luiz 😄
 
-- 🇧🇷 &nbsp; I'm a brazilian backend developer.
+- 💻 &nbsp; I'm a brazilian backend developer.
 - 🎓 &nbsp; I study computer science at Unifacs.
 - 💼 &nbsp; I'm currently working as backend developer at [Cubos Tecnologia](https://cubos.io)
 - 🎮 &nbsp; I like to do a lot of things: play videogames, cook, read books and study.
 
-## I've already touched 💻
+## I've already touched 🧑‍💻
 
   - ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript) ![Typescript](https://img.shields.io/badge/-Typescript-333333?style=flat&logo=typescript) ![NET](https://img.shields.io/badge/-.NET-333333?style=flat&logo=dotnet) ![C#](https://img.shields.io/badge/-CSharp-333333?style=flat&logo=csharp) ![Laravel](https://img.shields.io/badge/-Laravel-333333?style=flat&logo=laravel) ![Adonis](https://img.shields.io/badge/-Adonis-333333?style=flat&logo=adonisjs) ![Nest](https://img.shields.io/badge/-Nest-333333?style=flat&logo=nestjs) ![Jest](https://img.shields.io/badge/-Jest-333333?style=flat&logo=jest) **as backend developer**
   - ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5) ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6) ![SASS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6) ![Bootstrap](https://img.shields.io/badge/-Sass-333333?style=flat&logo=sass&logoColor=1572B6) **as frontend developer**
