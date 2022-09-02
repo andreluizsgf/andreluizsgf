@@ -2,7 +2,7 @@
 
 - 💻 &nbsp; I'm a brazilian backend developer.
 - 🎓 &nbsp; I study computer science at Unifacs.
-- 💼 &nbsp; I'm currently working as backend developer at [Grupo Boticário](https://www.grupoboticario.com.br/pt/Paginas/Inicial.aspx)
+- 💼 &nbsp; I'm currently working as backend developer at [Loja Integrada](https://lojaintegrada.com.br/)
 - 🎮 &nbsp; I like to do a lot of things: play videogames, cook, read books and study.
 
 ## I've already touched 🧑‍💻
